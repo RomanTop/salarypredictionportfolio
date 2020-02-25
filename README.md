@@ -9,3 +9,4 @@ This project is dedicated to analysis of job postings in order to:
 The data set is provided in two csv files 'train_features.csv' which contains attributes of each job posting and 'train_salaries.csv’ that has salaries for each corresponding job posting.
 
 The head of the data set with job postings attributes has the following format:
+![](salarypredictionportfolio/pictures/Features_Table.png)
