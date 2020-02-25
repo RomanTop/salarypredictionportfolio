@@ -19,3 +19,14 @@ The head of the data set contains salaries of the job postings looks like this:
 For the future operations with the data I combined two data sets into a one performing inner join using jobID as a Foreign key.
 
 ![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Head_of_df.png)
+
+## Preprocessing
+
+Before starting any analysis, I looked for duplicated and missing data. None of those were found in the dataset. Checking invalid data revealed 5 rows with salary value equals ‘0’ and they were removed from the dataset.
+
+## Exploratory Data Analysis
+
+In order to uncover any relationship between attributes and salary and among attributes themselves as well I did Exploratory Data Analysis. As a result, it revealed some strong relationship between most attributes and the target.
+First of all one of the strongest relationships were found between each numeric attribute such as ‘Years of Experience’ and ‘Miles from Metropolis’ and a salary. The correlation matrix showed that quite clearly:
+
+![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Correlation_matrix.png)
