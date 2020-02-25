@@ -11,3 +11,11 @@ The data set is provided in two csv files 'train_features.csv' which contains at
 The head of the data set with job postings attributes has the following format:
 
 ![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Features_Table.png)
+
+The head of the data set contains salaries of the job postings looks like this:
+
+![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Salary_Table.png)
+
+For the future operations with the data I combined two data sets into a one performing inner join using jobID as a Foreign key.
+
+![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Head_of_df.png)
