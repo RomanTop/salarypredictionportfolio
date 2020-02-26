@@ -30,3 +30,9 @@ In order to uncover any relationship between attributes and salary and among att
 First of all one of the strongest relationships were found between each numeric attribute such as ‘Years of Experience’ and ‘Miles from Metropolis’ and a salary. The correlation matrix showed that quite clearly:
 
 ![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Correlation_matrix.png)
+
+Building a plot of relationship between each of these attributes and the target also showed that a type of this relationship is almost perfectly linear but with the opposite trends for the corresponding attributes.
+
+![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Miles_from_Metropolis.png)
+
+![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Years_of%20Experience.png)
