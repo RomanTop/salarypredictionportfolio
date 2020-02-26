@@ -42,3 +42,19 @@ Both relationships are something to be expected to see, make sense and pretty mu
 Distribution in salaries of different types of jobs didn’t reveal anything unexpected. The highest average salaries have ‘C-suite’ types of top managers.
 
 ![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Job_type.png)
+
+Distributions of salaries among degrees go in ascending trend – the higher degree the higher mean salary.
+
+![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Degree.png)
+
+Building a plot for distributions of salaries among different majors showed not much variation with the exception for people with no degree. The mean salary for them significantly lower.
+
+![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Major.png)
+
+The least self evident was a plot that uncovered nowadays trends in distributions of salaries depending on industry. Information technologies represented in this data set by Web industry took only the third place among other industries while the highest mean salary is still in Oil Industry.
+
+![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Industry.png)
+
+The further investigation in grouping any two categorical features by mean salary made even more evident combination of what factors lead to higher mean salary. These are people with a Doctoral or Master’s degree, with major in Engineering or Business who work in Finance or Oil Industries.
+
+![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Jobtype_Degree.png)
