@@ -58,3 +58,8 @@ The least self evident was a plot that uncovered nowadays trends in distribution
 The further investigation in grouping any two categorical features by mean salary made even more evident combination of what factors lead to higher mean salary. These are people with a Doctoral or Master’s degree, with major in Engineering or Business who work in Finance or Oil Industries.
 
 ![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Heat_mapspng_Page1.png)
+## Modeling
+
+Before modeling I established a baseline for comparison and measuring efficacy of future models. This baseline is just a very simple predicting model and I chose Industry mean salary for this role. I calculated mean salary for each of seven Industries represented in the Data Set and saved them into a dictionary. After that I assigned to each job posting corresponding industry average salary and built a plot showing actual salaries vs. predicted
+
+![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Baseline_model-plot.png)
