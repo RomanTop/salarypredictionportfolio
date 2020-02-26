@@ -36,3 +36,9 @@ Building a plot of relationship between each of these attributes and the target 
 ![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Miles_from_Metropolis.png)
 
 ![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Years_of%20Experience.png)
+
+Both relationships are something to be expected to see, make sense and pretty much self-explanatory.
+
+Distribution in salaries of different types of jobs didn’t reveal anything unexpected. The highest average salaries have ‘C-suite’ types of top managers.
+
+![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Job_type.png)
