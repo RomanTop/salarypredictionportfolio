@@ -57,4 +57,4 @@ The least self evident was a plot that uncovered nowadays trends in distribution
 
 The further investigation in grouping any two categorical features by mean salary made even more evident combination of what factors lead to higher mean salary. These are people with a Doctoral or Master’s degree, with major in Engineering or Business who work in Finance or Oil Industries.
 
-![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Heat_maps.pdf)
+![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Heat_mapspng_Page1.png)
