@@ -33,9 +33,7 @@ First of all one of the strongest relationships were found between each numeric 
 
 Building a plot of relationship between each of these attributes and the target also showed that a type of this relationship is almost perfectly linear but with the opposite trends for the corresponding attributes.
 
-![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Miles_from_Metropolis.png)
-
-![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Years_of%20Experience.png)
+![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Miles_Yearspng_Page1.png)
 
 Both relationships are something to be expected to see, make sense and pretty much self-explanatory.
 
