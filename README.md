@@ -25,7 +25,7 @@ Both relationships are something to be expected to see, make sense and pretty mu
 
 Distribution in salaries of different types of jobs didn’t reveal anything unexpected. The highest average salaries have ‘C-suite’ types of top managers.
 
-![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Job_type.png)
+![](https://github.com/RomanTop/salarypredictionportfolio/blob/master/pictures/Job_type_1.png)
 
 Distributions of salaries among degrees go in ascending trend – the higher degree the higher mean salary.
 
